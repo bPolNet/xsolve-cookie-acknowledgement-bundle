@@ -1,5 +1,6 @@
 {
     "name": "xsolve-pl/xsolve-cookie-acknowledgement-bundle",
+    "version": "v2.0.0",
     "description": "XSolve Cookie Acknowledgement Bundle to handle new privacy law",
     "license": "MIT",
     "autoload": {
